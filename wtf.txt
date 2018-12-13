@@ -1,2 +1,3 @@
 print('wtf!')
-print('add second string too')
+print('make it! make it!')
+print('and show must go on!')
