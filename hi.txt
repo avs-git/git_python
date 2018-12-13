@@ -1,2 +1,3 @@
 print('hi!')
 print('we make seconf string')
+print('hello my dear freind')
