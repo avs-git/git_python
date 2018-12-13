@@ -1,1 +1,2 @@
 print('wtf!')
+print('add second string too')
