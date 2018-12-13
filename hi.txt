@@ -1,2 +1,2 @@
-print('hi!')
-print('we make seconf string')
+print('hi!;')
+print('we make seconf string;')
